@@ -14,7 +14,7 @@
 - [Commit Message (Gitmoji)](#commit-messages-gitmoji)
 
 ## About
-Github Project Task 관리 실습 프로젝트입니다.
+Github Project Task 관리 실습 프로젝트입니다. 
 
 ## Overview
 이용할 수 있는 기능은 없습니다.
