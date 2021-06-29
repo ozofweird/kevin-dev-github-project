@@ -10,6 +10,7 @@ public class KevinDevGithubProjectApplication {
         SpringApplication.run(KevinDevGithubProjectApplication.class, args);
 
         System.out.println("feature/test");
+        System.out.println("bug/test");
     }
 
 }
