@@ -55,7 +55,8 @@ ozofweird
 
 ## References
 
-- https://github.com/ozofweird/kevin-dev-github-settings
+- [Github를 이용한 Project Management](https://github.com/cheese10yun/github-project-management)
+- [Label & Issue template 참고용 내 깃허브](https://github.com/ozofweird/kevin-dev-github-settings)
 
 ---
 
