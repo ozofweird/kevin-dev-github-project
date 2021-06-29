@@ -27,12 +27,15 @@ Spring Boot 기본 구성으로 진행했습니다.
 - Dev & Stage
 - Prod
 
+### Project Process
+- [Issue](./docs/issue.md)
+- [Pull Request](./docs/pr.md)
+- [Project](./docs/project.md)
+
 ### Project Structures
 
 ### Installing
 1.
-2.
-3.
 
 ## Release Notes
 * 0.0.1
