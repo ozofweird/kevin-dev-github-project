@@ -8,6 +8,8 @@ public class KevinDevGithubProjectApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(KevinDevGithubProjectApplication.class, args);
+
+        System.out.println("feature/test");
     }
 
 }
